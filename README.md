@@ -1,8 +1,3 @@
----
-config:
-  theme: dark
-  look: classic
----
 
 # Desafio POO - UML e Implementação iPhone
 
